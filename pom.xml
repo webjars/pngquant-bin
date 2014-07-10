@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>pngquant-bin</artifactId>
-    <version>0.3.1-1</version>
+    <version>0.3.2-SNAPSHOT</version>
     <name>pngquant-bin</name>
     <description>WebJar for pngquant-bin</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/pngquant-bin</url>
         <connection>scm:git:https://github.com/webjars/pngquant-bin.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/pngquant-bin.git</developerConnection>
-        <tag>pngquant-bin-0.3.1-1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
